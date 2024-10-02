@@ -1,4 +1,4 @@
-# Math-Game-iOS-App - made in SwiftUI
+# Math-Game-iOS-App - made in SwiftUI and Google Firebase
 
 An iOS game written in SwiftUI, using MVVM.
 
